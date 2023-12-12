@@ -1,5 +1,5 @@
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)]([https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE](https://github.com/Larwargrjr2/sds1-wmazoni/blob/Larwargrjr2-patch-2/LICENSE)) 
 
 # Sobre o projeto
 
