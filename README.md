@@ -72,7 +72,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Larwargrjr2
 
-https://www.linkedin.com/in/wmazoni
+(https://www.linkedin.com/in/gianni-grazioli-junior-006a99164/)
 
