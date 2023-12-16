@@ -1,7 +1,7 @@
 # Big Game Survey 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Larwargrjr2/sds1-Larwargrjr2/blob/master/LICENSE) 
 
-# Sobre o projeto
+# Sobre o projeto 
 
 https://Larwargrjr2-sds1.netlify.app
 
